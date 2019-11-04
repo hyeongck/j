@@ -1,0 +1,26 @@
+C:\Users\hyeongck\source\repos\TestApplication\DB_Class\obj\Debug\DB_Class.csprojResolveAssemblyReference.cache
+C:\Users\hyeongck\source\repos\TestApplication\DB_Class\obj\Debug\DB_Class.csproj.CoreCompileInputs.cache
+C:\Users\hyeongck\source\repos\TestApplication\DB_Class\bin\Debug\DB_Class.dll
+C:\Users\hyeongck\source\repos\TestApplication\DB_Class\bin\Debug\DB_Class.pdb
+C:\Users\hyeongck\source\repos\TestApplication\DB_Class\bin\Debug\Data_Class.dll
+C:\Users\hyeongck\source\repos\TestApplication\DB_Class\bin\Debug\System.Data.SQLite.dll
+C:\Users\hyeongck\source\repos\TestApplication\DB_Class\bin\Debug\Data_Class.pdb
+C:\Users\hyeongck\source\repos\TestApplication\DB_Class\obj\Debug\DB_Class.dll
+C:\Users\hyeongck\source\repos\TestApplication\DB_Class\obj\Debug\DB_Class.pdb
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy\DB_Class\bin\Debug\DB_Class.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy\DB_Class\bin\Debug\DB_Class.pdb
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy\DB_Class\bin\Debug\Data_Class.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy\DB_Class\bin\Debug\System.Data.SQLite.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy\DB_Class\bin\Debug\Data_Class.pdb
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy\DB_Class\obj\Debug\DB_Class.csprojResolveAssemblyReference.cache
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy\DB_Class\obj\Debug\DB_Class.csproj.CoreCompileInputs.cache
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy\DB_Class\obj\Debug\DB_Class.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy\DB_Class\obj\Debug\DB_Class.pdb
+C:\Users\hyeongck\source\repos\TestApplication - 1\DB_Class\bin\Debug\DB_Class.dll
+C:\Users\hyeongck\source\repos\TestApplication - 1\DB_Class\bin\Debug\DB_Class.pdb
+C:\Users\hyeongck\source\repos\TestApplication - 1\DB_Class\bin\Debug\Data_Class.dll
+C:\Users\hyeongck\source\repos\TestApplication - 1\DB_Class\bin\Debug\System.Data.SQLite.dll
+C:\Users\hyeongck\source\repos\TestApplication - 1\DB_Class\bin\Debug\Data_Class.pdb
+C:\Users\hyeongck\source\repos\TestApplication - 1\DB_Class\obj\Debug\DB_Class.csprojResolveAssemblyReference.cache
+C:\Users\hyeongck\source\repos\TestApplication - 1\DB_Class\obj\Debug\DB_Class.dll
+C:\Users\hyeongck\source\repos\TestApplication - 1\DB_Class\obj\Debug\DB_Class.pdb

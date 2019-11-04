@@ -1,0 +1,5 @@
+C:\Users\hyeongck\source\repos\TestApplication - 1\Extension\bin\x64\Debug\Extension.dll
+C:\Users\hyeongck\source\repos\TestApplication - 1\Extension\bin\x64\Debug\Extension.pdb
+C:\Users\hyeongck\source\repos\TestApplication - 1\Extension\obj\x64\Debug\Extension.csprojResolveAssemblyReference.cache
+C:\Users\hyeongck\source\repos\TestApplication - 1\Extension\obj\x64\Debug\Extension.dll
+C:\Users\hyeongck\source\repos\TestApplication - 1\Extension\obj\x64\Debug\Extension.pdb

@@ -1,0 +1,5 @@
+C:\Users\hyeongck\source\repos\TestApplication\Dir\bin\x64\Release\Dir.dll
+C:\Users\hyeongck\source\repos\TestApplication\Dir\bin\x64\Release\Dir.pdb
+C:\Users\hyeongck\source\repos\TestApplication\Dir\obj\x64\Release\Dir.csproj.CoreCompileInputs.cache
+C:\Users\hyeongck\source\repos\TestApplication\Dir\obj\x64\Release\Dir.dll
+C:\Users\hyeongck\source\repos\TestApplication\Dir\obj\x64\Release\Dir.pdb

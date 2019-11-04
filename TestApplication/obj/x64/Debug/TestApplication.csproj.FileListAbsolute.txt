@@ -1,0 +1,270 @@
+C:\Users\hyeongck\source\repos\TestApplication\TestApplication\obj\x64\Debug\TestApplication.csprojResolveAssemblyReference.cache
+C:\Users\hyeongck\source\repos\TestApplication\TestApplication\obj\x64\Debug\TestApplication.Form1.resources
+C:\Users\hyeongck\source\repos\TestApplication\TestApplication\obj\x64\Debug\TestApplication.Properties.Resources.resources
+C:\Users\hyeongck\source\repos\TestApplication\TestApplication\obj\x64\Debug\TestApplication.Yield_Cal_Form.resources
+C:\Users\hyeongck\source\repos\TestApplication\TestApplication\obj\x64\Debug\TestApplication.Yield_Form.resources
+C:\Users\hyeongck\source\repos\TestApplication\TestApplication\obj\x64\Debug\TestApplication.csproj.GenerateResource.Cache
+C:\Users\hyeongck\source\repos\TestApplication\TestApplication\obj\x64\Debug\TestApplication.csproj.CoreCompileInputs.cache
+C:\Users\hyeongck\source\repos\TestApplication\TestApplication\bin\x64\Debug\TestApplication.exe.config
+C:\Users\hyeongck\source\repos\TestApplication\TestApplication\bin\x64\Debug\TestApplication.exe
+C:\Users\hyeongck\source\repos\TestApplication\TestApplication\bin\x64\Debug\TestApplication.pdb
+C:\Users\hyeongck\source\repos\TestApplication\TestApplication\bin\x64\Debug\CSV_Class.dll
+C:\Users\hyeongck\source\repos\TestApplication\TestApplication\bin\x64\Debug\Data_Class.dll
+C:\Users\hyeongck\source\repos\TestApplication\TestApplication\bin\x64\Debug\DB_Class.dll
+C:\Users\hyeongck\source\repos\TestApplication\TestApplication\bin\x64\Debug\Dir.dll
+C:\Users\hyeongck\source\repos\TestApplication\TestApplication\bin\x64\Debug\System.Data.SQLite.dll
+C:\Users\hyeongck\source\repos\TestApplication\TestApplication\bin\x64\Debug\CSV_Class.pdb
+C:\Users\hyeongck\source\repos\TestApplication\TestApplication\bin\x64\Debug\Dir.pdb
+C:\Users\hyeongck\source\repos\TestApplication\TestApplication\bin\x64\Debug\Data_Class.pdb
+C:\Users\hyeongck\source\repos\TestApplication\TestApplication\bin\x64\Debug\DB_Class.pdb
+C:\Users\hyeongck\source\repos\TestApplication\TestApplication\obj\x64\Debug\TestApplication.exe
+C:\Users\hyeongck\source\repos\TestApplication\TestApplication\obj\x64\Debug\TestApplication.pdb
+C:\Users\hyeongck\source\repos\TestApplication\TestApplication\bin\x64\Debug\JMP_Class.dll
+C:\Users\hyeongck\source\repos\TestApplication\TestApplication\bin\x64\Debug\JMP_Class.pdb
+C:\Users\hyeongck\source\repos\TestApplication\TestApplication\obj\x64\Debug\TestApplication.Spec_Gen_Form.resources
+C:\Users\hyeongck\source\repos\TestApplication\TestApplication\bin\x64\Debug\EXCEL_Class.dll
+C:\Users\hyeongck\source\repos\TestApplication\TestApplication\bin\x64\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\hyeongck\source\repos\TestApplication\TestApplication\bin\x64\Debug\stdole.dll
+C:\Users\hyeongck\source\repos\TestApplication\TestApplication\bin\x64\Debug\EXCEL_Class.pdb
+C:\Users\hyeongck\source\repos\TestApplication\TestApplication\obj\x64\Debug\TestApplication.Get_Spec_Form.resources
+C:\Users\hyeongck\source\repos\TestApplication\TestApplication\obj\x64\Debug\TestApplication.Insert_Count_Form.resources
+C:\Users\hyeongck\source\repos\TestApplication - Copy\TestApplication\bin\x64\Debug\TestApplication.exe.config
+C:\Users\hyeongck\source\repos\TestApplication - Copy\TestApplication\bin\x64\Debug\TestApplication.exe
+C:\Users\hyeongck\source\repos\TestApplication - Copy\TestApplication\bin\x64\Debug\TestApplication.pdb
+C:\Users\hyeongck\source\repos\TestApplication - Copy\TestApplication\bin\x64\Debug\CSV_Class.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy\TestApplication\bin\x64\Debug\Data_Class.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy\TestApplication\bin\x64\Debug\DB_Class.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy\TestApplication\bin\x64\Debug\Dir.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy\TestApplication\bin\x64\Debug\EXCEL_Class.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy\TestApplication\bin\x64\Debug\JMP_Class.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy\TestApplication\bin\x64\Debug\System.Data.SQLite.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy\TestApplication\bin\x64\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy\TestApplication\bin\x64\Debug\stdole.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy\TestApplication\bin\x64\Debug\CSV_Class.pdb
+C:\Users\hyeongck\source\repos\TestApplication - Copy\TestApplication\bin\x64\Debug\Dir.pdb
+C:\Users\hyeongck\source\repos\TestApplication - Copy\TestApplication\bin\x64\Debug\Data_Class.pdb
+C:\Users\hyeongck\source\repos\TestApplication - Copy\TestApplication\bin\x64\Debug\DB_Class.pdb
+C:\Users\hyeongck\source\repos\TestApplication - Copy\TestApplication\bin\x64\Debug\EXCEL_Class.pdb
+C:\Users\hyeongck\source\repos\TestApplication - Copy\TestApplication\bin\x64\Debug\JMP_Class.pdb
+C:\Users\hyeongck\source\repos\TestApplication - Copy\TestApplication\obj\x64\Debug\TestApplication.csprojResolveAssemblyReference.cache
+C:\Users\hyeongck\source\repos\TestApplication - Copy\TestApplication\obj\x64\Debug\TestApplication.Form1.resources
+C:\Users\hyeongck\source\repos\TestApplication - Copy\TestApplication\obj\x64\Debug\TestApplication.Get_Spec_Form.resources
+C:\Users\hyeongck\source\repos\TestApplication - Copy\TestApplication\obj\x64\Debug\TestApplication.Insert_Count_Form.resources
+C:\Users\hyeongck\source\repos\TestApplication - Copy\TestApplication\obj\x64\Debug\TestApplication.Properties.Resources.resources
+C:\Users\hyeongck\source\repos\TestApplication - Copy\TestApplication\obj\x64\Debug\TestApplication.Spec_Gen_Form.resources
+C:\Users\hyeongck\source\repos\TestApplication - Copy\TestApplication\obj\x64\Debug\TestApplication.Yield_Cal_Form.resources
+C:\Users\hyeongck\source\repos\TestApplication - Copy\TestApplication\obj\x64\Debug\TestApplication.Yield_Form.resources
+C:\Users\hyeongck\source\repos\TestApplication - Copy\TestApplication\obj\x64\Debug\TestApplication.csproj.GenerateResource.Cache
+C:\Users\hyeongck\source\repos\TestApplication - Copy\TestApplication\obj\x64\Debug\TestApplication.csproj.CoreCompileInputs.cache
+C:\Users\hyeongck\source\repos\TestApplication - Copy\TestApplication\obj\x64\Debug\TestApplication.exe
+C:\Users\hyeongck\source\repos\TestApplication - Copy\TestApplication\obj\x64\Debug\TestApplication.pdb
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy\TestApplication\bin\x64\Debug\TestApplication.exe.config
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy\TestApplication\bin\x64\Debug\TestApplication.exe
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy\TestApplication\bin\x64\Debug\TestApplication.pdb
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy\TestApplication\bin\x64\Debug\CSV_Class.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy\TestApplication\bin\x64\Debug\Data_Class.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy\TestApplication\bin\x64\Debug\DB_Class.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy\TestApplication\bin\x64\Debug\Dir.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy\TestApplication\bin\x64\Debug\EXCEL_Class.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy\TestApplication\bin\x64\Debug\JMP_Class.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy\TestApplication\bin\x64\Debug\System.Data.SQLite.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy\TestApplication\bin\x64\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy\TestApplication\bin\x64\Debug\stdole.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy\TestApplication\bin\x64\Debug\CSV_Class.pdb
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy\TestApplication\bin\x64\Debug\Dir.pdb
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy\TestApplication\bin\x64\Debug\Data_Class.pdb
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy\TestApplication\bin\x64\Debug\DB_Class.pdb
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy\TestApplication\bin\x64\Debug\EXCEL_Class.pdb
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy\TestApplication\bin\x64\Debug\JMP_Class.pdb
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy\TestApplication\obj\x64\Debug\TestApplication.csprojResolveAssemblyReference.cache
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy\TestApplication\obj\x64\Debug\TestApplication.Form1.resources
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy\TestApplication\obj\x64\Debug\TestApplication.Get_Spec_Form.resources
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy\TestApplication\obj\x64\Debug\TestApplication.Insert_Count_Form.resources
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy\TestApplication\obj\x64\Debug\TestApplication.Properties.Resources.resources
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy\TestApplication\obj\x64\Debug\TestApplication.Spec_Gen_Form.resources
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy\TestApplication\obj\x64\Debug\TestApplication.Yield_Cal_Form.resources
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy\TestApplication\obj\x64\Debug\TestApplication.Yield_Form.resources
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy\TestApplication\obj\x64\Debug\TestApplication.csproj.GenerateResource.Cache
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy\TestApplication\obj\x64\Debug\TestApplication.csproj.CoreCompileInputs.cache
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy\TestApplication\obj\x64\Debug\TestApplication.exe
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy\TestApplication\obj\x64\Debug\TestApplication.pdb
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy\TestApplication\bin\x64\Debug\TestApplication.exe.config
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy\TestApplication\bin\x64\Debug\TestApplication.exe
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy\TestApplication\bin\x64\Debug\TestApplication.pdb
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy\TestApplication\bin\x64\Debug\CSV_Class.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy\TestApplication\bin\x64\Debug\Data_Class.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy\TestApplication\bin\x64\Debug\DB_Class.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy\TestApplication\bin\x64\Debug\Dir.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy\TestApplication\bin\x64\Debug\EXCEL_Class.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy\TestApplication\bin\x64\Debug\JMP_Class.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy\TestApplication\bin\x64\Debug\System.Data.SQLite.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy\TestApplication\bin\x64\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy\TestApplication\bin\x64\Debug\stdole.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy\TestApplication\bin\x64\Debug\CSV_Class.pdb
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy\TestApplication\bin\x64\Debug\Dir.pdb
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy\TestApplication\bin\x64\Debug\Data_Class.pdb
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy\TestApplication\bin\x64\Debug\DB_Class.pdb
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy\TestApplication\bin\x64\Debug\EXCEL_Class.pdb
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy\TestApplication\bin\x64\Debug\JMP_Class.pdb
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy\TestApplication\obj\x64\Debug\TestApplication.csprojResolveAssemblyReference.cache
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy\TestApplication\obj\x64\Debug\TestApplication.Form1.resources
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy\TestApplication\obj\x64\Debug\TestApplication.Get_Spec_Form.resources
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy\TestApplication\obj\x64\Debug\TestApplication.Insert_Count_Form.resources
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy\TestApplication\obj\x64\Debug\TestApplication.Properties.Resources.resources
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy\TestApplication\obj\x64\Debug\TestApplication.Spec_Gen_Form.resources
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy\TestApplication\obj\x64\Debug\TestApplication.Yield_Cal_Form.resources
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy\TestApplication\obj\x64\Debug\TestApplication.Yield_Form.resources
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy\TestApplication\obj\x64\Debug\TestApplication.csproj.GenerateResource.Cache
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy\TestApplication\obj\x64\Debug\TestApplication.csproj.CoreCompileInputs.cache
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy\TestApplication\obj\x64\Debug\TestApplication.exe
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy\TestApplication\obj\x64\Debug\TestApplication.pdb
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy\TestApplication\bin\x64\Debug\Interop.JMP.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy\TestApplication\obj\x64\Debug\TestApplication.Adjust_Spec_Form.resources
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy\TestApplication\bin\x64\Debug\DataGridViewAutoFilter.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy\TestApplication\bin\x64\Debug\DataGridViewAutoFilter.pdb
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\bin\x64\Debug\TestApplication.exe.config
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\bin\x64\Debug\TestApplication.exe
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\bin\x64\Debug\TestApplication.pdb
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\bin\x64\Debug\AdvancedDataGridView.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\bin\x64\Debug\CSV_Class.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\bin\x64\Debug\Data_Class.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\bin\x64\Debug\DB_Class.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\bin\x64\Debug\Dir.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\bin\x64\Debug\EXCEL_Class.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\bin\x64\Debug\JMP_Class.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\bin\x64\Debug\System.Data.SQLite.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\bin\x64\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\bin\x64\Debug\Interop.JMP.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\bin\x64\Debug\stdole.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\bin\x64\Debug\CSV_Class.pdb
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\bin\x64\Debug\Data_Class.pdb
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\bin\x64\Debug\DB_Class.pdb
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\bin\x64\Debug\Dir.pdb
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\bin\x64\Debug\EXCEL_Class.pdb
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\bin\x64\Debug\JMP_Class.pdb
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\bin\x64\Debug\AdvancedDataGridView.xml
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\bin\x64\Debug\fr\AdvancedDataGridView.resources.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\bin\x64\Debug\ru\AdvancedDataGridView.resources.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\obj\x64\Debug\TestApplication.csprojResolveAssemblyReference.cache
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\obj\x64\Debug\TestApplication.Adjust_Spec_Form.resources
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\obj\x64\Debug\TestApplication.Form1.resources
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\obj\x64\Debug\TestApplication.Get_Spec_Form.resources
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\obj\x64\Debug\TestApplication.Insert_Count_Form.resources
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\obj\x64\Debug\TestApplication.Properties.Resources.resources
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\obj\x64\Debug\TestApplication.Spec_Gen_Form.resources
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\obj\x64\Debug\TestApplication.Yield_Cal_Form.resources
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\obj\x64\Debug\TestApplication.Yield_Form.resources
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\obj\x64\Debug\TestApplication.csproj.GenerateResource.Cache
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\obj\x64\Debug\TestApplication.csproj.CoreCompileInputs.cache
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\obj\x64\Debug\TestApplication.exe
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\obj\x64\Debug\TestApplication.pdb
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\obj\x64\Debug\TestApplication.csprojResolveAssemblyReference.cache
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\obj\x64\Debug\TestApplication.Adjust_Spec_Form.resources
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\obj\x64\Debug\TestApplication.Form1.resources
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\obj\x64\Debug\TestApplication.Get_Spec_Form.resources
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\obj\x64\Debug\TestApplication.Insert_Count_Form.resources
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\obj\x64\Debug\TestApplication.Properties.Resources.resources
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\obj\x64\Debug\TestApplication.Spec_Gen_Form.resources
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\obj\x64\Debug\TestApplication.Yield_Cal_Form.resources
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\obj\x64\Debug\TestApplication.Yield_Form.resources
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\obj\x64\Debug\TestApplication.csproj.GenerateResource.Cache
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\obj\x64\Debug\TestApplication.csproj.CoreCompileInputs.cache
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\obj\x64\Debug\TestApplication.exe
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\obj\x64\Debug\TestApplication.pdb
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\bin\x64\Debug\TestApplication.exe.config
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\bin\x64\Debug\TestApplication.exe
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\bin\x64\Debug\TestApplication.pdb
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\bin\x64\Debug\AdvancedDataGridView.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\bin\x64\Debug\CSV_Class.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\bin\x64\Debug\Data_Class.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\bin\x64\Debug\DB_Class.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\bin\x64\Debug\Dir.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\bin\x64\Debug\EXCEL_Class.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\bin\x64\Debug\JMP_Class.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\bin\x64\Debug\System.Data.SQLite.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\bin\x64\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\bin\x64\Debug\Interop.JMP.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\bin\x64\Debug\stdole.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\bin\x64\Debug\AdvancedDataGridView.pdb
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\bin\x64\Debug\CSV_Class.pdb
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\bin\x64\Debug\Data_Class.pdb
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\bin\x64\Debug\DB_Class.pdb
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\bin\x64\Debug\Dir.pdb
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\bin\x64\Debug\EXCEL_Class.pdb
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\TestApplication\bin\x64\Debug\JMP_Class.pdb
+C:\Users\hyeongck\source\repos\TestApplication - 1\TestApplication\bin\x64\Debug\TestApplication.exe.config
+C:\Users\hyeongck\source\repos\TestApplication - 1\TestApplication\bin\x64\Debug\TestApplication.exe
+C:\Users\hyeongck\source\repos\TestApplication - 1\TestApplication\bin\x64\Debug\TestApplication.pdb
+C:\Users\hyeongck\source\repos\TestApplication - 1\TestApplication\bin\x64\Debug\AdvancedDataGridView.dll
+C:\Users\hyeongck\source\repos\TestApplication - 1\TestApplication\bin\x64\Debug\CSV_Class.dll
+C:\Users\hyeongck\source\repos\TestApplication - 1\TestApplication\bin\x64\Debug\Data_Class.dll
+C:\Users\hyeongck\source\repos\TestApplication - 1\TestApplication\bin\x64\Debug\DB_Class.dll
+C:\Users\hyeongck\source\repos\TestApplication - 1\TestApplication\bin\x64\Debug\Dir.dll
+C:\Users\hyeongck\source\repos\TestApplication - 1\TestApplication\bin\x64\Debug\EXCEL_Class.dll
+C:\Users\hyeongck\source\repos\TestApplication - 1\TestApplication\bin\x64\Debug\JMP_Class.dll
+C:\Users\hyeongck\source\repos\TestApplication - 1\TestApplication\bin\x64\Debug\System.Data.SQLite.dll
+C:\Users\hyeongck\source\repos\TestApplication - 1\TestApplication\bin\x64\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\hyeongck\source\repos\TestApplication - 1\TestApplication\bin\x64\Debug\Interop.JMP.dll
+C:\Users\hyeongck\source\repos\TestApplication - 1\TestApplication\bin\x64\Debug\stdole.dll
+C:\Users\hyeongck\source\repos\TestApplication - 1\TestApplication\bin\x64\Debug\AdvancedDataGridView.pdb
+C:\Users\hyeongck\source\repos\TestApplication - 1\TestApplication\bin\x64\Debug\CSV_Class.pdb
+C:\Users\hyeongck\source\repos\TestApplication - 1\TestApplication\bin\x64\Debug\Data_Class.pdb
+C:\Users\hyeongck\source\repos\TestApplication - 1\TestApplication\bin\x64\Debug\DB_Class.pdb
+C:\Users\hyeongck\source\repos\TestApplication - 1\TestApplication\bin\x64\Debug\Dir.pdb
+C:\Users\hyeongck\source\repos\TestApplication - 1\TestApplication\bin\x64\Debug\EXCEL_Class.pdb
+C:\Users\hyeongck\source\repos\TestApplication - 1\TestApplication\bin\x64\Debug\JMP_Class.pdb
+C:\Users\hyeongck\source\repos\TestApplication - 1\TestApplication\obj\x64\Debug\TestApplication.csprojResolveAssemblyReference.cache
+C:\Users\hyeongck\source\repos\TestApplication - 1\TestApplication\obj\x64\Debug\TestApplication.Form1.resources
+C:\Users\hyeongck\source\repos\TestApplication - 1\TestApplication\obj\x64\Debug\TestApplication.Get_Spec_Form.resources
+C:\Users\hyeongck\source\repos\TestApplication - 1\TestApplication\obj\x64\Debug\TestApplication.Insert_Count_Form.resources
+C:\Users\hyeongck\source\repos\TestApplication - 1\TestApplication\obj\x64\Debug\TestApplication.Properties.Resources.resources
+C:\Users\hyeongck\source\repos\TestApplication - 1\TestApplication\obj\x64\Debug\TestApplication.Spec_Gen_Form.resources
+C:\Users\hyeongck\source\repos\TestApplication - 1\TestApplication\obj\x64\Debug\TestApplication.Yield_Cal_Form.resources
+C:\Users\hyeongck\source\repos\TestApplication - 1\TestApplication\obj\x64\Debug\TestApplication.Yield_Form.resources
+C:\Users\hyeongck\source\repos\TestApplication - 1\TestApplication\obj\x64\Debug\TestApplication.csproj.GenerateResource.Cache
+C:\Users\hyeongck\source\repos\TestApplication - 1\TestApplication\obj\x64\Debug\TestApplication.exe
+C:\Users\hyeongck\source\repos\TestApplication - 1\TestApplication\obj\x64\Debug\TestApplication.pdb
+C:\Users\hyeongck\source\repos\TestApplication - 1\TestApplication\obj\x64\Debug\TestApplication.Merge_Form.resources
+C:\Users\hyeongck\source\repos\TestApplication - 1\TestApplication\obj\x64\Debug\TestApplication.Lot_Variation_Form.resources
+C:\Users\hyeongck\source\repos\TestApplication - 1\TestApplication\obj\x64\Debug\TestApplication.Box_Plot_Form.resources
+C:\Users\hyeongck\source\repos\TestApplication - 1\TestApplication\obj\x64\Debug\TestApplication.MakeSpec_Form.resources
+C:\Users\hyeongck\source\repos\TestApplication -latest Backup\TestApplication\bin\x64\Debug\TestApplication.exe.config
+C:\Users\hyeongck\source\repos\TestApplication -latest Backup\TestApplication\obj\x64\Debug\TestApplication.exe
+C:\Users\hyeongck\source\repos\TestApplication -latest Backup\TestApplication\obj\x64\Debug\TestApplication.pdb
+C:\Users\hyeongck\source\repos\TestApplication -latest Backup\TestApplication\bin\x64\Debug\TestApplication.exe
+C:\Users\hyeongck\source\repos\TestApplication -latest Backup\TestApplication\bin\x64\Debug\TestApplication.pdb
+C:\Users\hyeongck\source\repos\TestApplication -latest Backup\TestApplication\bin\x64\Debug\AdvancedDataGridView.dll
+C:\Users\hyeongck\source\repos\TestApplication -latest Backup\TestApplication\bin\x64\Debug\CSV_Class.dll
+C:\Users\hyeongck\source\repos\TestApplication -latest Backup\TestApplication\bin\x64\Debug\Data_Class.dll
+C:\Users\hyeongck\source\repos\TestApplication -latest Backup\TestApplication\bin\x64\Debug\DB_Class.dll
+C:\Users\hyeongck\source\repos\TestApplication -latest Backup\TestApplication\bin\x64\Debug\Dir.dll
+C:\Users\hyeongck\source\repos\TestApplication -latest Backup\TestApplication\bin\x64\Debug\EXCEL_Class.dll
+C:\Users\hyeongck\source\repos\TestApplication -latest Backup\TestApplication\bin\x64\Debug\JMP_Class.dll
+C:\Users\hyeongck\source\repos\TestApplication -latest Backup\TestApplication\bin\x64\Debug\System.Data.SQLite.dll
+C:\Users\hyeongck\source\repos\TestApplication -latest Backup\TestApplication\bin\x64\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\hyeongck\source\repos\TestApplication -latest Backup\TestApplication\bin\x64\Debug\Interop.JMP.dll
+C:\Users\hyeongck\source\repos\TestApplication -latest Backup\TestApplication\bin\x64\Debug\stdole.dll
+C:\Users\hyeongck\source\repos\TestApplication -latest Backup\TestApplication\bin\x64\Debug\AdvancedDataGridView.pdb
+C:\Users\hyeongck\source\repos\TestApplication -latest Backup\TestApplication\bin\x64\Debug\CSV_Class.pdb
+C:\Users\hyeongck\source\repos\TestApplication -latest Backup\TestApplication\bin\x64\Debug\Data_Class.pdb
+C:\Users\hyeongck\source\repos\TestApplication -latest Backup\TestApplication\bin\x64\Debug\DB_Class.pdb
+C:\Users\hyeongck\source\repos\TestApplication -latest Backup\TestApplication\bin\x64\Debug\Dir.pdb
+C:\Users\hyeongck\source\repos\TestApplication -latest Backup\TestApplication\bin\x64\Debug\EXCEL_Class.pdb
+C:\Users\hyeongck\source\repos\TestApplication -latest Backup\TestApplication\bin\x64\Debug\JMP_Class.pdb
+C:\Users\hyeongck\source\repos\TestApplication -latest Backup\TestApplication\obj\x64\Debug\TestApplication.csprojResolveAssemblyReference.cache
+C:\Users\hyeongck\source\repos\TestApplication -latest Backup\TestApplication\obj\x64\Debug\TestApplication.Box_Plot_Form.resources
+C:\Users\hyeongck\source\repos\TestApplication -latest Backup\TestApplication\obj\x64\Debug\TestApplication.Form1.resources
+C:\Users\hyeongck\source\repos\TestApplication -latest Backup\TestApplication\obj\x64\Debug\TestApplication.Get_Spec_Form.resources
+C:\Users\hyeongck\source\repos\TestApplication -latest Backup\TestApplication\obj\x64\Debug\TestApplication.Insert_Count_Form.resources
+C:\Users\hyeongck\source\repos\TestApplication -latest Backup\TestApplication\obj\x64\Debug\TestApplication.Lot_Variation_Form.resources
+C:\Users\hyeongck\source\repos\TestApplication -latest Backup\TestApplication\obj\x64\Debug\TestApplication.MakeSpec_Form.resources
+C:\Users\hyeongck\source\repos\TestApplication -latest Backup\TestApplication\obj\x64\Debug\TestApplication.Merge_Form.resources
+C:\Users\hyeongck\source\repos\TestApplication -latest Backup\TestApplication\obj\x64\Debug\TestApplication.Properties.Resources.resources
+C:\Users\hyeongck\source\repos\TestApplication -latest Backup\TestApplication\obj\x64\Debug\TestApplication.Spec_Gen_Form.resources
+C:\Users\hyeongck\source\repos\TestApplication -latest Backup\TestApplication\obj\x64\Debug\TestApplication.Yield_Cal_Form.resources
+C:\Users\hyeongck\source\repos\TestApplication -latest Backup\TestApplication\obj\x64\Debug\TestApplication.Yield_Form.resources
+C:\Users\hyeongck\source\repos\TestApplication -latest Backup\TestApplication\obj\x64\Debug\TestApplication.csproj.GenerateResource.Cache
+C:\Users\hyeongck\source\repos\1\TestApplication -latest Backup\TestApplication\bin\x64\Debug\TestApplication.exe.config
+C:\Users\hyeongck\source\repos\1\TestApplication -latest Backup\TestApplication\obj\x64\Debug\TestApplication.exe
+C:\Users\hyeongck\source\repos\1\TestApplication -latest Backup\TestApplication\obj\x64\Debug\TestApplication.pdb
+C:\Users\hyeongck\source\repos\1\TestApplication -latest Backup\TestApplication\bin\x64\Debug\ATE.exe.config

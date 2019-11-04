@@ -1,0 +1,25 @@
+C:\Users\hyeongck\source\repos\testapp\Dir\bin\Debug\Dir.dll
+C:\Users\hyeongck\source\repos\testapp\Dir\bin\Debug\Dir.pdb
+C:\Users\hyeongck\source\repos\testapp\Dir\obj\Debug\Dir.csproj.CoreCompileInputs.cache
+C:\Users\hyeongck\source\repos\testapp\Dir\obj\Debug\Dir.dll
+C:\Users\hyeongck\source\repos\testapp\Dir\obj\Debug\Dir.pdb
+C:\Users\NI\Desktop\testapp\Dir\bin\Debug\Dir.dll
+C:\Users\NI\Desktop\testapp\Dir\bin\Debug\Dir.pdb
+C:\Users\NI\Desktop\testapp\Dir\obj\Debug\Dir.csproj.CoreCompileInputs.cache
+C:\Users\NI\Desktop\testapp\Dir\obj\Debug\Dir.dll
+C:\Users\NI\Desktop\testapp\Dir\obj\Debug\Dir.pdb
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy\Dir\bin\Debug\Dir.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy\Dir\bin\Debug\Dir.pdb
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy\Dir\bin\Debug\CSV_Class.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy\Dir\bin\Debug\CSV_Class.pdb
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy\Dir\obj\Debug\Dir.csprojResolveAssemblyReference.cache
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy\Dir\obj\Debug\Dir.csproj.CoreCompileInputs.cache
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy\Dir\obj\Debug\Dir.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy\Dir\obj\Debug\Dir.pdb
+C:\Users\hyeongck\source\repos\TestApplication - 1\Dir\bin\Debug\Dir.dll
+C:\Users\hyeongck\source\repos\TestApplication - 1\Dir\bin\Debug\Dir.pdb
+C:\Users\hyeongck\source\repos\TestApplication - 1\Dir\bin\Debug\CSV_Class.dll
+C:\Users\hyeongck\source\repos\TestApplication - 1\Dir\bin\Debug\CSV_Class.pdb
+C:\Users\hyeongck\source\repos\TestApplication - 1\Dir\obj\Debug\Dir.csprojResolveAssemblyReference.cache
+C:\Users\hyeongck\source\repos\TestApplication - 1\Dir\obj\Debug\Dir.dll
+C:\Users\hyeongck\source\repos\TestApplication - 1\Dir\obj\Debug\Dir.pdb

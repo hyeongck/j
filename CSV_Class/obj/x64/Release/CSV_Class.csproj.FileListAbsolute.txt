@@ -1,0 +1,5 @@
+C:\Users\hyeongck\source\repos\TestApplication\CSV_Class\bin\x64\Release\CSV_Class.dll
+C:\Users\hyeongck\source\repos\TestApplication\CSV_Class\bin\x64\Release\CSV_Class.pdb
+C:\Users\hyeongck\source\repos\TestApplication\CSV_Class\obj\x64\Release\CSV_Class.csproj.CoreCompileInputs.cache
+C:\Users\hyeongck\source\repos\TestApplication\CSV_Class\obj\x64\Release\CSV_Class.dll
+C:\Users\hyeongck\source\repos\TestApplication\CSV_Class\obj\x64\Release\CSV_Class.pdb

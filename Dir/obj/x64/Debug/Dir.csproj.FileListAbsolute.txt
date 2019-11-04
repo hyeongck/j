@@ -1,0 +1,59 @@
+C:\Users\hyeongck\source\repos\TestApplication\Dir\bin\x64\Debug\Dir.dll
+C:\Users\hyeongck\source\repos\TestApplication\Dir\bin\x64\Debug\Dir.pdb
+C:\Users\hyeongck\source\repos\TestApplication\Dir\obj\x64\Debug\Dir.csproj.CoreCompileInputs.cache
+C:\Users\hyeongck\source\repos\TestApplication\Dir\obj\x64\Debug\Dir.dll
+C:\Users\hyeongck\source\repos\TestApplication\Dir\obj\x64\Debug\Dir.pdb
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy\Dir\bin\x64\Debug\Dir.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy\Dir\bin\x64\Debug\Dir.pdb
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy\Dir\obj\x64\Debug\Dir.csproj.CoreCompileInputs.cache
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy\Dir\obj\x64\Debug\Dir.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy\Dir\obj\x64\Debug\Dir.pdb
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy\Dir\obj\x64\Debug\Dir.csprojResolveAssemblyReference.cache
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy\Dir\bin\x64\Debug\CSV_Class.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy\Dir\bin\x64\Debug\CSV_Class.pdb
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy\Dir\bin\x64\Debug\Dir.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy\Dir\bin\x64\Debug\Dir.pdb
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy\Dir\bin\x64\Debug\CSV_Class.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy\Dir\bin\x64\Debug\CSV_Class.pdb
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy\Dir\obj\x64\Debug\Dir.csprojResolveAssemblyReference.cache
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy\Dir\obj\x64\Debug\Dir.csproj.CoreCompileInputs.cache
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy\Dir\obj\x64\Debug\Dir.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy\Dir\obj\x64\Debug\Dir.pdb
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Dir\bin\x64\Debug\Dir.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Dir\bin\x64\Debug\Dir.pdb
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Dir\bin\x64\Debug\CSV_Class.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Dir\bin\x64\Debug\CSV_Class.pdb
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Dir\obj\x64\Debug\Dir.csprojResolveAssemblyReference.cache
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Dir\obj\x64\Debug\Dir.csproj.CoreCompileInputs.cache
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Dir\obj\x64\Debug\Dir.dll
+C:\Users\hyeongck\source\repos\TestApplication - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Dir\obj\x64\Debug\Dir.pdb
+C:\Users\hyeongck\source\repos\TestApplication - 1\Dir\bin\x64\Debug\Dir.dll
+C:\Users\hyeongck\source\repos\TestApplication - 1\Dir\bin\x64\Debug\Dir.pdb
+C:\Users\hyeongck\source\repos\TestApplication - 1\Dir\bin\x64\Debug\CSV_Class.dll
+C:\Users\hyeongck\source\repos\TestApplication - 1\Dir\bin\x64\Debug\CSV_Class.pdb
+C:\Users\hyeongck\source\repos\TestApplication - 1\Dir\obj\x64\Debug\Dir.csprojResolveAssemblyReference.cache
+C:\Users\hyeongck\source\repos\TestApplication - 1\Dir\obj\x64\Debug\Dir.dll
+C:\Users\hyeongck\source\repos\TestApplication - 1\Dir\obj\x64\Debug\Dir.pdb
+C:\Users\hyeongck\source\repos\1\TestApplication -latest Backup\Dir\bin\x64\Debug\Dir.dll
+C:\Users\hyeongck\source\repos\1\TestApplication -latest Backup\Dir\bin\x64\Debug\Dir.pdb
+C:\Users\hyeongck\source\repos\1\TestApplication -latest Backup\Dir\bin\x64\Debug\CSV_Class.dll
+C:\Users\hyeongck\source\repos\1\TestApplication -latest Backup\Dir\bin\x64\Debug\CSV_Class.pdb
+C:\Users\hyeongck\source\repos\1\TestApplication -latest Backup\Dir\obj\x64\Debug\Dir.csprojResolveAssemblyReference.cache
+C:\Users\hyeongck\source\repos\1\TestApplication -latest Backup\Dir\obj\x64\Debug\Dir.dll
+C:\Users\hyeongck\source\repos\1\TestApplication -latest Backup\Dir\obj\x64\Debug\Dir.pdb
+C:\Users\hyeongck\source\repos\1\TestApplication -latest Backup - Copy (3)\Dir\bin\x64\Debug\Dir.dll
+C:\Users\hyeongck\source\repos\1\TestApplication -latest Backup - Copy (3)\Dir\bin\x64\Debug\Dir.pdb
+C:\Users\hyeongck\source\repos\1\TestApplication -latest Backup - Copy (3)\Dir\bin\x64\Debug\CSV_Class.dll
+C:\Users\hyeongck\source\repos\1\TestApplication -latest Backup - Copy (3)\Dir\bin\x64\Debug\CSV_Class.pdb
+C:\Users\hyeongck\source\repos\1\TestApplication -latest Backup - Copy (3)\Dir\obj\x64\Debug\Dir.csprojResolveAssemblyReference.cache
+C:\Users\hyeongck\source\repos\1\TestApplication -latest Backup - Copy (3)\Dir\obj\x64\Debug\Dir.dll
+C:\Users\hyeongck\source\repos\1\TestApplication -latest Backup - Copy (3)\Dir\obj\x64\Debug\Dir.pdb
+C:\Users\hyeongck\source\repos\1\TestApplication -latest Backup - Copy (4) - Copy\Dir\bin\x64\Debug\Dir.dll
+C:\Users\hyeongck\source\repos\1\TestApplication -latest Backup - Copy (4) - Copy\Dir\bin\x64\Debug\Dir.pdb
+C:\Users\hyeongck\source\repos\1\TestApplication -latest Backup - Copy (4) - Copy\Dir\bin\x64\Debug\CSV_Class.dll
+C:\Users\hyeongck\source\repos\1\TestApplication -latest Backup - Copy (4) - Copy\Dir\bin\x64\Debug\CSV_Class.pdb
+C:\Users\hyeongck\source\repos\1\TestApplication -latest Backup - Copy (4) - Copy\Dir\obj\x64\Debug\Dir.csprojAssemblyReference.cache
+C:\Users\hyeongck\source\repos\1\TestApplication -latest Backup - Copy (4) - Copy\Dir\obj\x64\Debug\Dir.csproj.CoreCompileInputs.cache
+C:\Users\hyeongck\source\repos\1\TestApplication -latest Backup - Copy (4) - Copy\Dir\obj\x64\Debug\Dir.csproj.CopyComplete
+C:\Users\hyeongck\source\repos\1\TestApplication -latest Backup - Copy (4) - Copy\Dir\obj\x64\Debug\Dir.dll
+C:\Users\hyeongck\source\repos\1\TestApplication -latest Backup - Copy (4) - Copy\Dir\obj\x64\Debug\Dir.pdb

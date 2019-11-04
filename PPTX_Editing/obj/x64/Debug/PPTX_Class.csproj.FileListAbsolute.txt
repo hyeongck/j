@@ -1,0 +1,17 @@
+C:\Users\hyeongck\source\repos\1\TestApplication -latest Backup\PPTX_Editing\bin\x64\Debug\PPTX_Editing.dll
+C:\Users\hyeongck\source\repos\1\TestApplication -latest Backup\PPTX_Editing\bin\x64\Debug\PPTX_Editing.pdb
+C:\Users\hyeongck\source\repos\1\TestApplication -latest Backup\PPTX_Editing\obj\x64\Debug\PPTX_Class.csproj.ResolveComReference.cache
+C:\Users\hyeongck\source\repos\1\TestApplication -latest Backup\PPTX_Editing\obj\x64\Debug\PPTX_Editing.dll
+C:\Users\hyeongck\source\repos\1\TestApplication -latest Backup\PPTX_Editing\obj\x64\Debug\PPTX_Editing.pdb
+C:\Users\hyeongck\source\repos\1\TestApplication -latest Backup - Copy (3)\PPTX_Editing\bin\x64\Debug\PPTX_Editing.dll
+C:\Users\hyeongck\source\repos\1\TestApplication -latest Backup - Copy (3)\PPTX_Editing\bin\x64\Debug\PPTX_Editing.pdb
+C:\Users\hyeongck\source\repos\1\TestApplication -latest Backup - Copy (3)\PPTX_Editing\obj\x64\Debug\PPTX_Class.csproj.ResolveComReference.cache
+C:\Users\hyeongck\source\repos\1\TestApplication -latest Backup - Copy (3)\PPTX_Editing\obj\x64\Debug\PPTX_Editing.dll
+C:\Users\hyeongck\source\repos\1\TestApplication -latest Backup - Copy (3)\PPTX_Editing\obj\x64\Debug\PPTX_Editing.pdb
+C:\Users\hyeongck\source\repos\1\TestApplication -latest Backup - Copy (4) - Copy\PPTX_Editing\bin\x64\Debug\PPTX_Editing.dll
+C:\Users\hyeongck\source\repos\1\TestApplication -latest Backup - Copy (4) - Copy\PPTX_Editing\bin\x64\Debug\PPTX_Editing.pdb
+C:\Users\hyeongck\source\repos\1\TestApplication -latest Backup - Copy (4) - Copy\PPTX_Editing\obj\x64\Debug\PPTX_Class.csproj.ResolveComReference.cache
+C:\Users\hyeongck\source\repos\1\TestApplication -latest Backup - Copy (4) - Copy\PPTX_Editing\obj\x64\Debug\PPTX_Class.csproj.CoreCompileInputs.cache
+C:\Users\hyeongck\source\repos\1\TestApplication -latest Backup - Copy (4) - Copy\PPTX_Editing\obj\x64\Debug\PPTX_Editing.dll
+C:\Users\hyeongck\source\repos\1\TestApplication -latest Backup - Copy (4) - Copy\PPTX_Editing\obj\x64\Debug\PPTX_Editing.pdb
+C:\Users\hyeongck\source\repos\1\TestApplication -latest Backup - Copy (4) - Copy\PPTX_Editing\obj\x64\Debug\PPTX_Class.csprojAssemblyReference.cache

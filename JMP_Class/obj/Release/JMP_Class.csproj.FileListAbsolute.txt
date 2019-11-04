@@ -1,0 +1,5 @@
+C:\Users\hyeongck\source\repos\TestApplication\JMP_Class\bin\Release\JMP_Class.dll
+C:\Users\hyeongck\source\repos\TestApplication\JMP_Class\bin\Release\JMP_Class.pdb
+C:\Users\hyeongck\source\repos\TestApplication\JMP_Class\obj\Release\JMP_Class.csproj.CoreCompileInputs.cache
+C:\Users\hyeongck\source\repos\TestApplication\JMP_Class\obj\Release\JMP_Class.dll
+C:\Users\hyeongck\source\repos\TestApplication\JMP_Class\obj\Release\JMP_Class.pdb
