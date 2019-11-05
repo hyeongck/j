@@ -28,3 +28,21 @@ C:\Users\hyeongck\source\repos\TestApplication - 1\JMP_Class\obj\Debug\JMP_Class
 C:\Users\hyeongck\source\repos\TestApplication - 1\JMP_Class\obj\Debug\JMP_Class.csproj.ResolveComReference.cache
 C:\Users\hyeongck\source\repos\TestApplication - 1\JMP_Class\obj\Debug\JMP_Class.dll
 C:\Users\hyeongck\source\repos\TestApplication - 1\JMP_Class\obj\Debug\JMP_Class.pdb
+C:\Users\hyeongck\Source\Repos\1\TestApplication -latest Backup - Copy (4) - Copy\JMP_Class\bin\Debug\JMP_Class.dll
+C:\Users\hyeongck\Source\Repos\1\TestApplication -latest Backup - Copy (4) - Copy\JMP_Class\bin\Debug\JMP_Class.pdb
+C:\Users\hyeongck\Source\Repos\1\TestApplication -latest Backup - Copy (4) - Copy\JMP_Class\bin\Debug\CSV_Class.dll
+C:\Users\hyeongck\Source\Repos\1\TestApplication -latest Backup - Copy (4) - Copy\JMP_Class\bin\Debug\Data_Class.dll
+C:\Users\hyeongck\Source\Repos\1\TestApplication -latest Backup - Copy (4) - Copy\JMP_Class\bin\Debug\DB_Class.dll
+C:\Users\hyeongck\Source\Repos\1\TestApplication -latest Backup - Copy (4) - Copy\JMP_Class\bin\Debug\Dir.dll
+C:\Users\hyeongck\Source\Repos\1\TestApplication -latest Backup - Copy (4) - Copy\JMP_Class\bin\Debug\Interop.JMP.dll
+C:\Users\hyeongck\Source\Repos\1\TestApplication -latest Backup - Copy (4) - Copy\JMP_Class\bin\Debug\System.Data.SQLite.dll
+C:\Users\hyeongck\Source\Repos\1\TestApplication -latest Backup - Copy (4) - Copy\JMP_Class\bin\Debug\CSV_Class.pdb
+C:\Users\hyeongck\Source\Repos\1\TestApplication -latest Backup - Copy (4) - Copy\JMP_Class\bin\Debug\Data_Class.pdb
+C:\Users\hyeongck\Source\Repos\1\TestApplication -latest Backup - Copy (4) - Copy\JMP_Class\bin\Debug\DB_Class.pdb
+C:\Users\hyeongck\Source\Repos\1\TestApplication -latest Backup - Copy (4) - Copy\JMP_Class\bin\Debug\Dir.pdb
+C:\Users\hyeongck\Source\Repos\1\TestApplication -latest Backup - Copy (4) - Copy\JMP_Class\obj\Debug\JMP_Class.csprojAssemblyReference.cache
+C:\Users\hyeongck\Source\Repos\1\TestApplication -latest Backup - Copy (4) - Copy\JMP_Class\obj\Debug\JMP_Class.csproj.ResolveComReference.cache
+C:\Users\hyeongck\Source\Repos\1\TestApplication -latest Backup - Copy (4) - Copy\JMP_Class\obj\Debug\JMP_Class.csproj.CoreCompileInputs.cache
+C:\Users\hyeongck\Source\Repos\1\TestApplication -latest Backup - Copy (4) - Copy\JMP_Class\obj\Debug\JMP_Class.csproj.CopyComplete
+C:\Users\hyeongck\Source\Repos\1\TestApplication -latest Backup - Copy (4) - Copy\JMP_Class\obj\Debug\JMP_Class.dll
+C:\Users\hyeongck\Source\Repos\1\TestApplication -latest Backup - Copy (4) - Copy\JMP_Class\obj\Debug\JMP_Class.pdb

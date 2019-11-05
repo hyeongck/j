@@ -23,3 +23,12 @@ C:\Users\hyeongck\source\repos\TestApplication - 1\Dir\bin\Debug\CSV_Class.pdb
 C:\Users\hyeongck\source\repos\TestApplication - 1\Dir\obj\Debug\Dir.csprojResolveAssemblyReference.cache
 C:\Users\hyeongck\source\repos\TestApplication - 1\Dir\obj\Debug\Dir.dll
 C:\Users\hyeongck\source\repos\TestApplication - 1\Dir\obj\Debug\Dir.pdb
+C:\Users\hyeongck\Source\Repos\1\TestApplication -latest Backup - Copy (4) - Copy\Dir\bin\Debug\Dir.dll
+C:\Users\hyeongck\Source\Repos\1\TestApplication -latest Backup - Copy (4) - Copy\Dir\bin\Debug\Dir.pdb
+C:\Users\hyeongck\Source\Repos\1\TestApplication -latest Backup - Copy (4) - Copy\Dir\bin\Debug\CSV_Class.dll
+C:\Users\hyeongck\Source\Repos\1\TestApplication -latest Backup - Copy (4) - Copy\Dir\bin\Debug\CSV_Class.pdb
+C:\Users\hyeongck\Source\Repos\1\TestApplication -latest Backup - Copy (4) - Copy\Dir\obj\Debug\Dir.csprojAssemblyReference.cache
+C:\Users\hyeongck\Source\Repos\1\TestApplication -latest Backup - Copy (4) - Copy\Dir\obj\Debug\Dir.csproj.CoreCompileInputs.cache
+C:\Users\hyeongck\Source\Repos\1\TestApplication -latest Backup - Copy (4) - Copy\Dir\obj\Debug\Dir.csproj.CopyComplete
+C:\Users\hyeongck\Source\Repos\1\TestApplication -latest Backup - Copy (4) - Copy\Dir\obj\Debug\Dir.dll
+C:\Users\hyeongck\Source\Repos\1\TestApplication -latest Backup - Copy (4) - Copy\Dir\obj\Debug\Dir.pdb
