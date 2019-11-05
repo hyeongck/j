@@ -58,6 +58,9 @@ namespace TestApplication
             int b = 0;
             int c = 0;
 
+
+            //뭐지
+
         }
 
         private void button5_Click(object sender, EventArgs e)
